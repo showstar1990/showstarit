@@ -18223,8 +18223,7 @@ CCTV17✨阿星,http://110.52.244.53:9003//hls/18/index.m3u8$阿星✨IPV4『线
 香港卫视✨阿星,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv$阿星✨IPV4『线路21』
 香港卫视✨阿星,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$阿星✨IPV4『线路22』
 TVBS新闻✨阿星,http://61.221.215.25:8800/hls/9/index.m3u8$阿星✨IPV4『线路1』
-吉安综合✨阿星,http://stream.ijatv.com/jatv1/hd/live.m3u8?_upt=b57ca44d1726484242
-吉安公共✨阿星,http://stream.ijatv.com/jatv2/hd/live.m3u8?_upt=47c7844f1726484463
+
 
 
 
