@@ -59,7 +59,37 @@ CCTV16📺️阿星,http://111.72.202.251:4050/udp/239.252.220.237:5140$阿星�
 CCTV17📺️阿星,https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b34d75ff515080f8def9861a030c98c5861b036729d642445a7bc5b0cd43e7086ca1903346f6cbad01b639771ee3bd13e653bdb2d14f169744862c9695688b0b177bc144a$阿星✨咪咕FH
 CCTV17📺️阿星,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv17$阿星✨咪咕H
 CCTV17📺️阿星,http://111.72.202.251:4050/udp/239.252.220.192:5140$阿星✨Multicast
-
+📺️央视高码✨阿星▶️,#genre#
+cctv1-高码,http://13.251.121.250:35455/gaoma/cctv1.m3u8
+cctv2-高码,http://13.251.121.250:35455/gaoma/cctv2.m3u8
+cctv3-高码,http://13.251.121.250:35455/gaoma/cctv3.m3u8
+cctv4-高码,,http://13.251.121.250:35455/gaoma/cctv4.m3u8
+cctv5-高码,,http://13.251.121.250:35455/gaoma/cctv5.m3u8
+cctv5p-高码,http://13.251.121.250:35455/gaoma/cctv5p.m3u8
+cctv7-高码,http://13.251.121.250:35455/gaoma/cctv7.m3u8
+cctv8-高码,http://13.251.121.250:35455/gaoma/cctv8.m3u8
+cctv9-高码,http://13.251.121.250:35455/gaoma/cctv9.m3u8
+cctv10-高码,http://13.251.121.250:35455/gaoma/cctv10.m3u8
+cctv11-高码,http://13.251.121.250:35455/gaoma/cctv11.m3u8
+cctv12-高码,http://13.251.121.250:35455/gaoma/cctv12.m3u8
+cctv13-高码http://13.251.121.250:35455/gaoma/cctv13.m3u8
+cctv14-高码,http://13.251.121.250:35455/gaoma/cctv14.m3u8
+cctv15-高码,http://13.251.121.250:35455/gaoma/cctv15.m3u8
+cctv16-高码,http://13.251.121.250:35455/gaoma/cctv16.m3u8
+cctv164k_10m,http://13.251.121.250:35455/gaoma/cctv4k16_10m.m3u8
+cctv164k,http://13.251.121.250:35455/gaoma/cctv4k16.m3u8
+cctv17-高码,http://13.251.121.250:35455/gaoma/cctv17.m3u8
+cgtndoc,http://13.251.121.250:35455/gaoma/cgtndoc.m3u8
+cgtnen,http://13.251.121.250:35455/gaoma/cgtnen.m3u8
+cgtnfr,http://13.251.121.250:35455/gaoma/cgtnfr.m3u8
+cgtnru,http://13.251.121.250:35455/gaoma/cgtnru.m3u8
+cgtnsp,http://13.251.121.250:35455/gaoma/cgtnsp.m3u8
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+cctv4k_10m,http://13.251.121.250:35455/gaoma/cctv4k_10m.m3u8
+cctv4k,http://13.251.121.250:35455/gaoma/cctv4k.m3u8
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+cctv8k_36m,http://13.251.121.250:35455/gaoma/cctv8k_36m.m3u8
+cctv8k_120m,http://13.251.121.250:35455/gaoma/cctv8k_120m.m3u8
 
 📺️卫星✨阿星▶️,#genre#
 湖南卫视📺️阿星,http://124.231.212.56:9999/tsfile/live/0128_1.m3u8$阿星✨Hotel
