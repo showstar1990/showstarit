@@ -1,6 +1,7 @@
 📺️阿星✨免费维护,#genre#
 关注抖音show.star,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 📺️央视✨阿星▶️,#genre#
+CCTV1,http://kxrj.site:998/123/mg.php?id=cctv1
 CCTV1📺️阿星,http://124.231.212.56:9999/tsfile/live/0001_1.m3u8$阿星✨Hotel
 CCTV1📺️阿星,http://111.72.202.251:4050/rtp/239.252.219.200:5140$阿星✨Multicast
 CCTV1📺️阿星,http://111.72.202.251:4050/rtp/239.252.219.10:5140$阿星✨Multicast
