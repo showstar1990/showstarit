@@ -371,7 +371,6 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$阿星✨FH咪咕
 北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=18360129623627541611$阿星✨FH1
 北京卫视,http://113.220.234.228:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$阿星✨H
 广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305$阿星✨FH
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws$阿星✨咪咕H
 深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=15000776628606995758$阿星✨FH
 深圳卫视,http://113.220.234.228:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$阿星✨B
 东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087$阿星✨FH
@@ -393,12 +392,12 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$阿星✨FH咪咕
 青海卫视,http://58.221.214.82:9901/tsfile/live/0018_1.m3u8$阿星✨B2
 西藏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=2025$阿星✨B
 新疆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=2025$阿星✨B
-安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8$阿星✨B1
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8$阿星✨B2
-安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=fa85a7111719921825$阿星✨B3
-安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=be54a04d1719055140$阿星✨B4
-安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050$阿星✨B5
+安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8$阿星✨H1
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8$阿星✨H2
+安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=fa85a7111719921825$阿星✨H3
+安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=be54a04d1719055140$阿星✨H4
+安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050$阿星✨H5
 大湾区卫视,http://182.92.109.190:1668/72/72.php?id=dwqws$阿星✨B
 
-
-
+湖南卫视1,http://z.b.bkpcp.top/m.php?id=hnws$阿星✨FH咪咕
+浙江卫视1,http://z.b.bkpcp.top/m.php?id=zjws$阿星✨FH咪咕
