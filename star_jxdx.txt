@@ -314,3 +314,21 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$阿星✨FH咪咕
 大湾区卫视,http://182.92.109.190:1668/72/72.php?id=dwqws$阿星✨B
 河南卫视1,http://z.b.bkpcp.top/m.php?id=hnws$阿星✨FH咪咕
 浙江卫视1,http://z.b.bkpcp.top/m.php?id=zjws$阿星✨FH咪咕
+JX,#genre#
+江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&amp;t=173717688677178&amp;token=8e612c2a14c50db0756060c705021c6c&amp;uuid=0f90d908f00b
+江西都市,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&amp;t=173717701398844&amp;token=970cd532cf002621f8237ec816a7c9fd&amp;uuid=0f90d908f00b
+江西经生,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&amp;t=173717730395554&amp;token=27fe6744734fc004fa65841b389d37a0&amp;uuid=0f90d908f00b
+江西影旅,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?source=pc&amp;t=173717740614479&amp;token=bd24b85f0c4ac57f71e506b4a91bd5ff&amp;uuid=0f90d908f00b
+江西农业,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?source=pc&amp;t=173717749247938&amp;token=7a340133dc69926bb6dab2079124d799&amp;uuid=0f90d908f00b
+江西少儿,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?source=pc&amp;t=173717754463688&amp;token=670ecbde2f4dc53c0eecf90cf744e7be&amp;uuid=0f90d908f00b
+江西新闻,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?source=pc&amp;t=173717764333666&amp;token=8014322f48ed896463b66f75bceb02d0&amp;uuid=0f90d908f00b
+江西电视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?source=pc&amp;t=173717777064227&amp;token=32ad89fd3aaf01da20360e753ad44506&amp;uuid=0f90d908f00b
+江西陶瓷,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8?source=pc&amp;t=173717781762767&amp;token=b2ada4ee9ec2dc0210a2a299e50c2d87&amp;uuid=0f90d908f00b
+
+测试,#genre#
+CCTV1,https://t1.iptv200.com/live/cctv1.m3u8?sign=1737178462-1a868dcc747fe728c2106f5cd1366d5d$阿星✨M1
+CCTV1,https://t1.iptv200.com/live/cctv1/index.m3u8?session=mz0xglun2t76nurisjv76wng33fqucno$阿星✨I1
+CCTV1,https://t1.iptv200.com/live/cctv1.m3u8?sign=1737178671-4b14321e8c7fee79c85ddd3be333d856$阿星✨M2
+CCTV1,https://t1.iptv200.com/live/cctv1/index.m3u8?session=167godomurl41t2qzu9kk29kv5q9xamd$阿星✨I2
+CCTV2,https://t1.iptv200.com/live/cctv2.m3u8?sign=1737178134-7677892e30e8ece10e3205148adf3ae7"><span class="checkbox" title=$阿星✨M1
+CCTV2,https://t1.iptv200.com/live/cctv2/index.m3u8?session=3iam8uvtakn02yf5znfh0ec7py84uhbc$阿星✨I1
