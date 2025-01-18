@@ -315,7 +315,8 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17$阿星✨FH咪咕
 河南卫视1,http://z.b.bkpcp.top/m.php?id=hnws$阿星✨FH咪咕
 浙江卫视1,http://z.b.bkpcp.top/m.php?id=zjws$阿星✨FH咪咕
 JX,#genre#
-江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&amp;t=173717688677178&amp;token=8e612c2a14c50db0756060c705021c6c&amp;uuid=0f90d908f00b
+江西卫视1,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173717942471023&token=a8d21dd54e2fed9ccd08a156594b8b01&uuid=0950830fd002
+江西卫视2,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&amp;t=173717688677178&amp;token=8e612c2a14c50db0756060c705021c6c&amp;uuid=0f90d908f00b
 江西都市,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&amp;t=173717701398844&amp;token=970cd532cf002621f8237ec816a7c9fd&amp;uuid=0f90d908f00b
 江西经生,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&amp;t=173717730395554&amp;token=27fe6744734fc004fa65841b389d37a0&amp;uuid=0f90d908f00b
 江西影旅,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?source=pc&amp;t=173717740614479&amp;token=bd24b85f0c4ac57f71e506b4a91bd5ff&amp;uuid=0f90d908f00b
